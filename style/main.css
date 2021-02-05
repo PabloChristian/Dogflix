@@ -131,7 +131,7 @@ header .menu-right .drop-down{
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50))100%, url('/img/principal.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50))100%, url('https://github.com/PabloChristian/Dogflix/blob/main/img/principal.jpg?raw=true');
     height:570px;
     background-size: cover;
 
