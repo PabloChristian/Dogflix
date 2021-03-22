@@ -23,5 +23,5 @@ JQuery para criação do carrossel
 
 ## Acessando o Site
 Acesse o link abaixo:
-https://pablochristian.github.io/Dogflix/
+https://pablochristian.github.io/html-css-dogflix/
 
