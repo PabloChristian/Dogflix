@@ -15,6 +15,7 @@ Esse projeto possui como objetivo de criar uma netflix baseado em filmes de cach
 
 - Restante da listagem de filmes e rodapé
 <img src="docs/prints/print3.png">
+
 ## Tecnologias
 HTML
 CSS
