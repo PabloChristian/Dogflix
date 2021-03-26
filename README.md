@@ -5,6 +5,15 @@ Netflix baseada em doguinhos!
 
 Esse projeto possui como objetivo de criar uma netflix baseado em filmes de cachorros.
 
+## Tecnologias
+HTML
+CSS
+JQuery para criação do carrossel
+
+## Acessando o Site
+Acesse o link abaixo:
+https://pablochristian.github.io/html-css-dogflix/
+
 ## Imagens
 
 - Topo e Capa
@@ -15,13 +24,4 @@ Esse projeto possui como objetivo de criar uma netflix baseado em filmes de cach
 
 - Restante da listagem de filmes e rodapé
 <img src="docs/prints/print3.png">
-
-## Tecnologias
-HTML
-CSS
-JQuery para criação do carrossel
-
-## Acessando o Site
-Acesse o link abaixo:
-https://pablochristian.github.io/html-css-dogflix/
 
